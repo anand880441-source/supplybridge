@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Expo build output
+.expo/
+dist/
+web-build/
+
+# Uploaded files
+supplybridge-backend/uploads/
+supplybridge-backend/private-uploads/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
